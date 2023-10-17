@@ -2,6 +2,7 @@
 
 I'm a friendly fellow human with a strong passion for new technology and big data.
 ![fellow human](https://github.com/laimisslavinskas/laimisslavinskas/assets/123883604/5ae9d7c0-859e-4c9e-8467-3d127fa42980)
+![mark](https://github.com/laimisslavinskas/laimisslavinskas/assets/123883604/e85b9e0e-8239-4356-9a7e-2c8f9f1e5241)
 
 - 🌐 **Professional Background:** Head of Information Technology at UAB "Aurita," Client Consultant at SEB Bank.
 - 📊 **Skills:** Proficient in Microsoft Dynamics NAV, PowerBI presentations, data analysis,big query and IT team management.
