@@ -1,4 +1,4 @@
-## 👋 Hello, I'm  Laimis Slavinskas
+## 👋 Hello, I'm  Laimis 
 
 I'm a friendly fellow human with a strong passion for new technology and big data.
 
