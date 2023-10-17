@@ -13,3 +13,5 @@ I'm a friendly fellow human with a strong passion for new technology and big dat
 My passion lies at the intersection of finance and technology, and I'm always eager to explore new opportunities and potential collaborations in these domains. Let's connect and discuss how we can work together to drive success in the world of finance and technology. 
 
 Feel free to reach out, and let's make things happen!
+
+![200w](https://github.com/laimisslavinskas/laimisslavinskas/assets/123883604/48ce1783-de28-42dc-9515-8d94cc985cc5)
